@@ -1,1 +1,1 @@
-# RGDMusicSwitcher
+# RGBMusicSwitcher
