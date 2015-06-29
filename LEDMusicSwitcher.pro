@@ -19,6 +19,7 @@ SOURCES += main.cpp\
 
 HEADERS  += mainwindow.h \
     trackbar.h \
-    light.h
+    light.h \
+    oneLight.h
 
 FORMS    += mainwindow.ui
